@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// Specify the URL of the web resource we want to download
-	url := "https://zerotomastery.io/blog/golang-practice-projects/"
+	url := "https://example website.com"
 
 	client := &http.Client{}
 
